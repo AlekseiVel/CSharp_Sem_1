@@ -8,7 +8,10 @@ Console.WriteLine("Введите второе число");
 int numberB = int.Parse(Console.ReadLine());
 
 if(numberB == numberA * numberA)
-Console.WriteLine("Да!");
-
-if(numberB != numberA * numberA)
+{
+    Console.WriteLine("Да!");
+}
+else
+{
 Console.WriteLine("Нет!");
+}
