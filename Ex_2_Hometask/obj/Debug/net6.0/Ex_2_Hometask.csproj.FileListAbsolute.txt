@@ -1,0 +1,15 @@
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.csproj.AssemblyReference.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.AssemblyInfoInputs.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.AssemblyInfo.cs
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.csproj.CoreCompileInputs.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\bin\Debug\net6.0\Ex_2_Hometask.exe
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\bin\Debug\net6.0\Ex_2_Hometask.deps.json
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\bin\Debug\net6.0\Ex_2_Hometask.runtimeconfig.json
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\bin\Debug\net6.0\Ex_2_Hometask.dll
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\bin\Debug\net6.0\Ex_2_Hometask.pdb
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.dll
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\refint\Ex_2_Hometask.dll
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.pdb
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\Ex_2_Hometask.genruntimeconfig.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_2_Hometask\obj\Debug\net6.0\ref\Ex_2_Hometask.dll
