@@ -1,0 +1,15 @@
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\bin\Debug\net6.0\Ex_0.exe
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\bin\Debug\net6.0\Ex_0.deps.json
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\bin\Debug\net6.0\Ex_0.runtimeconfig.json
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\bin\Debug\net6.0\Ex_0.dll
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\bin\Debug\net6.0\Ex_0.pdb
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.csproj.AssemblyReference.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.AssemblyInfoInputs.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.AssemblyInfo.cs
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.csproj.CoreCompileInputs.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.dll
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\refint\Ex_0.dll
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.pdb
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\Ex_0.genruntimeconfig.cache
+C:\Users\Aleksei V\Desktop\Обучение\C#\Семинар 1\Ex_0\obj\Debug\net6.0\ref\Ex_0.dll
